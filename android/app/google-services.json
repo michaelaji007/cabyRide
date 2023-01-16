@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "228448875084",
+    "firebase_url": "https://gocaby-prod-97583.firebaseio.com",
+    "project_id": "gocaby-prod-97583",
+    "storage_bucket": "gocaby-prod-97583.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:228448875084:android:3e76addab6acffafd73ae9",
+        "android_client_info": {
+          "package_name": "com.gocaby.driverapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "228448875084-romfvujgbv6roedni1gi15ibg1crlncr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApJw8eD0tGY2mfkPp_9vtUt9DuYLWr-Es"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "228448875084-romfvujgbv6roedni1gi15ibg1crlncr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "228448875084-33ss1h4696vfp6fecjopcjumg6jj040e.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.gocaby.riderapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:228448875084:android:e581d3ced89feb6dd73ae9",
+        "android_client_info": {
+          "package_name": "com.gocaby.riderapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "228448875084-romfvujgbv6roedni1gi15ibg1crlncr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApJw8eD0tGY2mfkPp_9vtUt9DuYLWr-Es"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "228448875084-romfvujgbv6roedni1gi15ibg1crlncr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "228448875084-33ss1h4696vfp6fecjopcjumg6jj040e.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.gocaby.riderapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
